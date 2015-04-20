@@ -1,4 +1,5 @@
 ## CV
+***
 
 ###Carrie Christenson
 ***
@@ -42,18 +43,20 @@ I earned a Bachelor of Arts (Major in English Literature) and spent every single
 ###Experience
 ***
 
-#####Corporate Associate, Viable Healthworks Corp. (July 2013 - October 2014)
+Corporate Associate, Viable Healthworks Corp. (July 2013 - October 2014)
 
-#####Internal Operations Manager, Dolman Brandt Pools (January 2008 - October 2014)
+Internal Operations Manager, Dolman Brandt Pools (January 2008 - October 2014)
 
-#####Executive Assistant, Allon Therapeutics Inc. (June 2011 - June 2013)
+Executive Assistant, Allon Therapeutics Inc. (June 2011 - June 2013)
 
-#####Research Assistant, BC Resuscitation Outcomes Consortium (June 2007 - June 2011)
+Research Assistant, BC Resuscitation Outcomes Consortium (June 2007 - June 2011)
 
 ###Volunteer Work
 ***
-Many and varied, including, but not limited to:
-  *
+Many and varied, including, but not limited to:  
++ Coordinating The Shoebox Project, Vancouver, where we collected and donated over 250 boxes of gifts to women in need.  
++ Serving meals to homeless people in Vancouver's Downtown Eastside at the Union Gospel Mission.  
++ Event organization and day-of volunteering for the Pheonix Academy of Learning (a school for children with complex developmental disabilities, including autism spectrum disorder).  
 
 
 ###Interests
