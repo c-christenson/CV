@@ -11,9 +11,8 @@ I am a Canadian living in London with a passion for problem solving, agile envir
 | STEMettes App        | Number 2           | Number 3  |
 | ------------- |:-------------:| -----:|
 | Well-tested Ruby-on-Rails responsive app developed in two weeks. Developed for the charity, STEMettes, it allows the charity to measure the impact of their events, and access data from an admin dashboard.   | number 2| number 3|
-|    | number 2     |   number 3 |
-|  | number 2      |    number 3 |
-
+|   
+| 
 
 
 ###Skills
