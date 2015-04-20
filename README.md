@@ -26,25 +26,25 @@ User Authentication: Bcrypt and Devise
 
 ###Education
 
-####Makers Academy (February 2015 to April 2015)
+#####Makers Academy (February 2015 to April 2015)
 Makers Academy is a 12 week immersive coding bootcamp where I learned object oriented progamming, coding best practices, test-driven development, agile development, and the joy of pair programming (and also, a lot about myself). 
 
 
-####British Columbia Institute of Technology, Vancouver, BC (January 2012 - December 2012)
+#####British Columbia Institute of Technology, Vancouver, BC (January 2012 - December 2012)
 I earned a Social Media Marketing Certificate, and learned the power of analytics, engaging your audience, and the best move of all - being authentic.
 
-####University of British Columbia, Vancouver, BC (September 2005 – April 2009)
+#####University of British Columbia, Vancouver, BC (September 2005 – April 2009)
 I earned a Bachelor of Arts (Major in English Literature) and spent every single day doing something that I love, and talking about it with people who loved it, too.
 
 ###Experience
 
-####Corporate Associate, Viable Healthworks Corp. (July 2013 - October 2014)
+#####Corporate Associate, Viable Healthworks Corp. (July 2013 - October 2014)
 
-####Internal Operations Manager, Dolman Brandt Pools (January 2008 - October 2014)
+#####Internal Operations Manager, Dolman Brandt Pools (January 2008 - October 2014)
 
-####Executive Assistant, Allon Therapeutics Inc. (June 2011 - June 2013)
+#####Executive Assistant, Allon Therapeutics Inc. (June 2011 - June 2013)
 
-####Research Assistant, BC Resuscitation Outcomes Consortium (June 2007 - June 2011)
+#####Research Assistant, BC Resuscitation Outcomes Consortium (June 2007 - June 2011)
 
 ###Volunteer Work
 Many and varied, including, but not limited to:
