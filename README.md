@@ -10,12 +10,12 @@ I am a Canadian living in London with a passion for problem solving, agile envir
 
 | [STEMettes App](https://github.com/STEMettes/royalty_loyalty)        | [Instagram Clone](https://github.com/c-christenson/instagram-challenge)           | [Bowling Scorecard](https://github.com/c-christenson/bowling-challenge)  |
 | ------------- |:-------------:| -----:|
-| Well-tested Ruby-on-Rails responsive app developed in two weeks. Developed for the charity, STEMettes, it allows the charity to measure the impact of their events, and access data from an admin dashboard. Live version [here](https://stemettes-staging.herokuapp.com/).  | Instagram Clone built with Ruby on Rails. Live version here.| Bowling Scorecard built using JavaScript. Live version here.|
+| Well-tested Ruby-on-Rails responsive app developed in two weeks. Developed for the charity, STEMettes, it allows the charity to measure the impact of their events, and access data from an admin dashboard. Live version [here](https://stemettes-staging.herokuapp.com/).  | Instagram Clone built with Ruby on Rails. Live version here.| Bowling Scorecard built with JavaScript. Live version here.|
 
 
 ###Skills
 ***
-Languages: Javascript, Ruby, HTML5, CSS3, JQuery  
+Languages: Ruby, Javascript, HTML5, CSS3, JQuery  
 Databases: SQL, PostgresSQL  
 ORMs: Datamapper and ActiveRecord  
 Frameworks: Ruby on Rails, Sinatra, NodeJS, ExpressJS, AngularJS  
@@ -50,7 +50,7 @@ Research Assistant, BC Resuscitation Outcomes Consortium (June 2007 - June 2011)
 
 ###Volunteer Work
 ***
-Many and varied, including, but not limited to:  
+Including, but not limited to:  
 + Coordinating The Shoebox Project, Vancouver, where we collected and donated over 250 boxes of gifts to women in need.  
 + Serving meals to homeless people in Vancouver's Downtown Eastside at the Union Gospel Mission.  
 + Event organization and day-of volunteering for the Pheonix Academy of Learning (a school for children with complex developmental disabilities, including autism spectrum disorder).  
