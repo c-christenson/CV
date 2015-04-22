@@ -8,9 +8,9 @@ I am a Canadian living in London with a passion for problem solving, agile envir
 
 ###Code
 
-| [STEMettes App](https://github.com/STEMettes/royalty_loyalty)        | Number 2           | Number 3  |
+| [STEMettes App](https://github.com/STEMettes/royalty_loyalty)        | [Instagram Clone](https://github.com/c-christenson/instagram-challenge)           | [Bowling Scorecard](https://github.com/c-christenson/bowling-challenge)  |
 | ------------- |:-------------:| -----:|
-| Well-tested Ruby-on-Rails responsive app developed in two weeks. Developed for the charity, STEMettes, it allows the charity to measure the impact of their events, and access data from an admin dashboard. Live versionn [here](https://stemettes-staging.herokuapp.com/)  | number 2| number 3|
+| Well-tested Ruby-on-Rails responsive app developed in two weeks. Developed for the charity, STEMettes, it allows the charity to measure the impact of their events, and access data from an admin dashboard. Live version [here](https://stemettes-staging.herokuapp.com/).  | Instagram Clone built with Ruby on Rails. Live version here.| Bowling Scorecard built using JavaScript. Live version here.|
 
 
 ###Skills
