@@ -28,7 +28,7 @@ User Authentication: Bcrypt and Devise
 ***
 
 #####Makers Academy (February 2015 to April 2015)
-Makers Academy is a 12 week immersive coding bootcamp where I learned object oriented progamming, coding best practices, test-driven development, agile development, and the joy of pair programming (and also, a lot about myself). 
+Makers Academy is a 12 week immersive coding bootcamp where I learned object oriented programming, coding best practices, test-driven development, agile development, and the joy of pair programming (and also, a lot about myself). 
 
 
 #####British Columbia Institute of Technology, Vancouver, BC (January 2012 - December 2012)
