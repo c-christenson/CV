@@ -15,7 +15,7 @@ I am a Canadian living in London with a passion for problem solving, agile envir
 
 ###Skills
 ***
-Languages: Ruby, Javascript, HTML5, CSS3 
+Languages: Ruby, Javascript, HTML5, CSS3   
 Databases: SQL, PostgresSQL  
 ORMs: Datamapper and ActiveRecord  
 Frameworks: Ruby on Rails, Sinatra, NodeJS, ExpressJS, AngularJS  
