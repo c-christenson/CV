@@ -51,9 +51,9 @@ Research Assistant, BC Resuscitation Outcomes Consortium (June 2007 - June 2011)
 ###Volunteer Work
 ***
 Including, but not limited to:  
-+ Coordinating The Shoebox Project, Vancouver, where we collected and donated over 250 boxes of gifts to women in need.  
-+ Serving meals to homeless people in Vancouver's Downtown Eastside at the Union Gospel Mission.  
-+ Event organization and day-of volunteering for the Pheonix Academy of Learning (a school for children with complex developmental disabilities, including autism spectrum disorder).  
++ Coordinating The Shoebox Project, Vancouver, where we collected and donated over 250 boxes of gifts to women living in poverty.  
++ Serving meals to the homeless population in Vancouver's Downtown Eastside at the Union Gospel Mission.  
++ Event organization and day-of volunteering for the Phoenix Academy of Learning (a school for children with complex developmental disabilities, including autism spectrum disorder).  
 
 
 ###Interests
